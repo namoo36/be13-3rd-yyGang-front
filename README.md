@@ -2,12 +2,37 @@
 
 
 ## 📌 팀원 소개
-- **김도윤** - 팀원
-- **박서준** - 팀원
-- **이덕찬** - 팀원
-- **이승용** - 팀장
-- **이제경** - 팀원
-- **이희진** - 팀원
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZvEqTn3PfGT4zwcglmHXeJ7C7g4UJwXVZzA&s" width="100"><br>
+      <b><a href="https://github.com/kimdoyun0806">김도윤</a></b><br>팀원
+    </td>
+    <td align="center">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZvEqTn3PfGT4zwcglmHXeJ7C7g4UJwXVZzA&s" width="100"><br>
+      <b><a href="https://github.com/pppseojun">박서준</a></b><br>팀원
+    </td>
+    <td align="center">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZvEqTn3PfGT4zwcglmHXeJ7C7g4UJwXVZzA&s" width="100"><br>
+      <b><a href="https://github.com/deokChan2">이덕찬</a></b><br>팀원
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZvEqTn3PfGT4zwcglmHXeJ7C7g4UJwXVZzA&s" width="100"><br>
+      <b>🏆 <a href="https://github.com/namoo36">이승용</a></b><br><b>팀장</b>
+    </td>
+    <td align="center">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZvEqTn3PfGT4zwcglmHXeJ7C7g4UJwXVZzA&s" width="100"><br>
+      <b><a href="https://github.com/jelee55">이제경</a></b><br>팀원
+    </td>
+    <td align="center">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZvEqTn3PfGT4zwcglmHXeJ7C7g4UJwXVZzA&s" width="100"><br>
+      <b><a href="https://github.com/2HEEJIN">이희진</a></b><br>팀원
+    </td>
+  </tr>
+</table>
 
 - ## 📌 목차
 1. [프로젝트 소개](#프로젝트-소개)
