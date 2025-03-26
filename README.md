@@ -35,12 +35,21 @@
 
 ## 기술 스택
 ### Backend
+<img src="https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=SpringBoot&logoColor=white">
+<img src="https://img.shields.io/badge/SpringDataJPA-green?style=for-the-badge&logo=SpringDataJPA&logoColor=white">
+<img src="https://img.shields.io/badge/java-red?style=for-the-badge&logo=java&logoColor=white">
+
 - **Spring Boot**: 주요 비즈니스 로직 처리
 - **Redis**: 동시성 이슈 처리, 데이터 캐싱
 - **MySQL**: 관계형 데이터베이스 관리
 
 ### Frontend
-- **Vue.js**: 사용자 인터페이스 구현
+<img src="https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/html5-blue?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-orange?style=for-the-badge&logo=JavaScript&logoColor=white">
+<img src="https://img.shields.io/badge/Axios-orange?style=for-the-badge&logo=Axios&logoColor=white">
+<img src="https://img.shields.io/badge/Vue.js-orange?style=for-the-badge&logo=Vue.js&logoColor=white">
 - **HTML/CSS**: 웹 페이지의 레이아웃 및 스타일링
 
 ### DB
