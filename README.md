@@ -72,7 +72,7 @@
 
 
 ### Tools
-<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=Figma&logoColor=white"> <img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=Postman&logoColor=white"> <img src="https://img.shields.io/badge/Swagger-green?style=for-the-badge&logo=Swagger&logoColor=white"> <img src="https://img.shields.io/badge/erdCloud-blue?style=for-the-badge&logo=erdCloud&logoColor=white"> <img src="https://img.shields.io/badge/Draw.io-blue?style=for-the-badge&logo=Draw.io&logoColor=white">
+<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=Figma&logoColor=white"> <img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=Postman&logoColor=white"> <img src="https://img.shields.io/badge/Swagger-green?style=for-the-badge&logo=Swagger&logoColor=white"> <img src="https://img.shields.io/badge/erdCloud-blue?style=for-the-badge&logo=erdCloud&logoColor=white">
 
 
 ### Communication
