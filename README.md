@@ -1,4 +1,5 @@
 # be13-3rd-3team
+![팀 프로젝트 사진](https://github.com/user-attachments/assets/b52fe83e-fd0f-40fc-9315-74222170f0a2)
 
 
 ## 📌 팀원 소개
