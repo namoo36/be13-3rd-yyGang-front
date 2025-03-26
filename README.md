@@ -82,19 +82,6 @@
     + 사용자의 피드백을 반영하여 보다 정밀한 맞춤형 건강 관리 서비스 제공
 
 
-### 기획
-<details>
-<summary>📌 ERD 설계</summary>
-https://www.erdcloud.com/d/k45NzTHZqR2g769kv
-</details>
-
-<details>
-<summary>📌 화면 설계</summary>
-https://www.figma.com/design/vGeaWMkgpIMoXgVQZdtWUX/%EC%98%81%EC%96%91%EA%B0%B1?node-id=0-1&t=dPvi2MJ2QOZu2etV-1
-</details>
-
-
-
 ## 시스템 아키텍처
 [시스템 아키텍처 사진 넣어주기]
 
@@ -114,9 +101,21 @@ https://www.figma.com/design/vGeaWMkgpIMoXgVQZdtWUX/%EC%98%81%EC%96%91%EA%B0%B1?
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 
 
-## 🔍 사용한 핵심 기술 & 코드
-핵심 기술 어쩌구저꺼구
+## 📌 화면 설계
+<details>
+<summary>📌 Figma</summary>
+https://www.figma.com/design/vGeaWMkgpIMoXgVQZdtWUX/%EC%98%81%EC%96%91%EA%B0%B1?node-id=0-1&t=dPvi2MJ2QOZu2etV-1
+</details>
+
+![figma](https://github.com/user-attachments/assets/845c4128-22aa-488d-97ac-f93677f92cbc)
 
 
-## 🔍 주요 기능 요약 화면
-사진 
+
+## 🔍 화면구성
+<details>
+<summary>메인 화면</summary>
+  
+![메인화면](https://github.com/user-attachments/assets/30741606-d4fe-4d6e-a6b5-27691d8821b0)
+</details>
+
+
